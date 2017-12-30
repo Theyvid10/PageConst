@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.contenedor{
+	width:auto;
+	height: 662px;
+	background-color:#000000;
+	background-image: url(../img/pagc.jpg)
+	
+}
+
+body{
+	margin:0px;
+	padding:0px;
+}
